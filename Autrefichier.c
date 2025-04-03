@@ -1,0 +1,2 @@
+int entier;
+float c;
